@@ -1,1 +1,1 @@
-# VGG16-P
+# VGG16-Pytorch
